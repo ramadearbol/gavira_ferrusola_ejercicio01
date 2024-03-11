@@ -1,18 +1,4 @@
 
-<style>
-
-.h2{
-  color:#00A8FF;
-}
-
-</style>
-
-
-
-
-
-
-
 <!-- CONTENIDO -->
 
 <ol>

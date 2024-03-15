@@ -1,6 +1,20 @@
 .cabecera{
-    width: 100px;
-    height: 100px;
     display: flex;
-    
+    justify-content: space-between;
+    align-items: flex-end;
+    margin: 30px 30px 0px 30px;
+}
+
+.cabecera img {
+    height: 100px;
+    width: 300px;
+}
+
+.menu{
+   width: 400px;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
 }
